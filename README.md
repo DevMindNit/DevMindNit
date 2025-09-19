@@ -24,8 +24,5 @@ Hey, you found my profile!<br><br>I'm Nitish, an enthusiastic software developer
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=DevMindNit&icon=2&color=9)](https://visitcount.itsvg.in)
